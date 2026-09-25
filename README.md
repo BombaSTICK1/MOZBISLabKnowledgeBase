@@ -3,9 +3,9 @@
 </p>
 # 🎓 Мозбис | Лабораторные работы | Магистратура
 
-![GitHub language count](https://img.shields.io/github/languages/count/ВАШ-НИК/ВАШ-РЕПОЗИТОРИЙ)
-![GitHub top language](https://img.shields.io/github/languages/top/ВАШ-НИК/ВАШ-РЕПОЗИТОРИЙ)
-![GitHub last commit](https://img.shields.io/github/last-commit/ВАШ-НИК/ВАШ-РЕПОЗИТОРИЙ)
+![GitHub language count](https://img.shields.io/github/languages/count/BombaSTICK1/MOZBISLabKnowledgeBase)
+![GitHub top language](https://img.shields.io/github/languages/top/BombaSTICK1/MOZBISLabKnowledgeBase)
+![GitHub last commit](https://img.shields.io/github/last-commit/BombaSTICK1/MOZBISLabKnowledgeBase)
 
 Добро пожаловать в репозиторий! Здесь собраны исходные коды, отчеты и материалы лабораторных и практических работ, выполненных в рамках обучения в магистратуре по направлению **«[Название вашего направления/специальности]»** в **[Название университета]**.
 
